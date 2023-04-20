@@ -84,7 +84,7 @@ $(function () {
   var timeTwelve = $("#hour-12");
   timeTwelve.addClass('');
 
-  if(12 < currentHour) {
+  if(12 > currentHour) {
     console.log("past");
     timeTwelve.addClass('past');
   }
@@ -93,7 +93,7 @@ $(function () {
     timeTwelve.addClass('present');
 
   }
-  if(12 > currentHour){
+  if(12 < currentHour){
     console.log("future");
     timeTwelve.addClass('future');
   }
@@ -101,7 +101,7 @@ $(function () {
   var timeThirteen = $("#hour-13");
   timeThirteen.addClass('');
 
-  if(1 < currentHour) {
+  if(1 > currentHour) {
     console.log("past");
     timeThirteen.addClass('past');
   }
@@ -110,7 +110,7 @@ $(function () {
     timeThirteen.addClass('present');
 
   }
-  if(1 > currentHour){
+  if(1 < currentHour){
     console.log("future");
     timeThirteen.addClass('future');
   }
@@ -118,7 +118,7 @@ $(function () {
   var timeFourteen = $("#hour-14");
   timeFourteen.addClass('');
 
-  if(2 < currentHour) {
+  if(2 > currentHour) {
     console.log("past");
     timeFourteen.addClass('past');
   }
@@ -127,7 +127,7 @@ $(function () {
     timeFourteen.addClass('present');
 
   }
-  if(2 > currentHour){
+  if(2 < currentHour){
     console.log("future");
     timeFourteen.addClass('future');
   }
@@ -135,7 +135,7 @@ $(function () {
   var timeFifteen = $("#hour-15");
   timeFifteen.addClass('');
 
-  if(3 < currentHour) {
+  if(3 > currentHour) {
     console.log("past");
     timeFifteen.addClass('past');
   }
@@ -144,7 +144,7 @@ $(function () {
     timeFifteen.addClass('present');
 
   }
-  if(3 > currentHour){
+  if(3 < currentHour){
     console.log("future");
     timeFifteen.addClass('future');
   }
@@ -152,7 +152,7 @@ $(function () {
   var timeSixteen = $("#hour-16");
   timeSixteen.addClass('');
 
-  if(4 < currentHour) {
+  if(4 > currentHour) {
     console.log("past");
     timeSixteen.addClass('past');
   }
@@ -161,7 +161,7 @@ $(function () {
     timeSixteen.addClass('present');
 
   }
-  if(4 > currentHour){
+  if(4 < currentHour){
     console.log("future");
     timeSixteen.addClass('future');
   }
@@ -169,7 +169,7 @@ $(function () {
   var timeSeventeen = $("#hour-17");
   timeSeventeen.addClass('');
 
-  if(5 < currentHour) {
+  if(5 > currentHour) {
     console.log("past");
     timeSeventeen.addClass('past');
   }
@@ -178,7 +178,7 @@ $(function () {
     timeSeventeen.addClass('present');
 
   }
-  if(5 > currentHour){
+  if(5 < currentHour){
     console.log("future");
     timeSeventeen.addClass('future');
   }
@@ -186,7 +186,7 @@ $(function () {
   var timeEightteen = $("#hour-18");
   timeEightteen.addClass('');
 
-  if(6 < currentHour) {
+  if(6 > currentHour) {
     console.log("past");
     timeEightteen.addClass('past');
   }
@@ -195,7 +195,7 @@ $(function () {
     timeEightteen.addClass('present');
 
   }
-  if(6 > currentHour){
+  if(6 < currentHour){
     console.log("future");
     timeEightteen.addClass('future');
   }
@@ -204,3 +204,6 @@ $(function () {
 // local storage saved 
 
 
+function saveSchedule(){
+
+}
