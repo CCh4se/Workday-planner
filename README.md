@@ -5,6 +5,7 @@
 # Screenshots
 
 
+
 # Description
 For this project we were tasked by adding code to the script.js that works with the scripts in the html file and also debug the html file. The code we needed to include has to display the current day on top of the webpage, including time blocks for a  9-5 work day that also changed based off of the user's current time, and to have any information saved in the text field to display on the page after refreshing the website. 
 
