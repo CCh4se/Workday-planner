@@ -3,8 +3,7 @@
 ## Workday Planner within Business Hours
 
 # Screenshots
-![Schedule Part 1](https://user-images.githubusercontent.com/127711552/233382242-4b329787-5d75-4b06-a611-f08ba15f78fb.PNG)
-![Schedule Part 2](https://user-images.githubusercontent.com/127711552/233382397-7778b4aa-4fe3-4daa-8744-f915dabee8d0.PNG)
+
 
 
 # Description
