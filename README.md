@@ -15,7 +15,7 @@ n/a
 n/a
 
 # Contributing 
-I met with my tutor, Juan Delgado, who taught and assisted me with how to break down each issue. He helped me understand that adding notes throughout the code helps with debuging any issues and creating code that flows better. Also using https://www.w3schools.com/, https://day.js.org/, and looking over the previous class work we did during class.
+I met with my tutor, Juan Delgado, who taught and assisted me with how to break down each issue. He helped me understand that adding notes throughout the code helps with debuging any issues and creating code that flows better. Also using https://www.w3schools.com/, https://day.js.org/, https://jquery.com/, and looking over the previous class work we did during class.
 
 # License 
 n/a
